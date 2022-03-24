@@ -1,0 +1,4 @@
+Voici la version Alpha 0.0.1 de Daltis
+Il y a des commande en train d'arrivé:
+Modération
+Cryptomonnais
